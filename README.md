@@ -1,1 +1,1 @@
-parse_privacy
+parsingprivacy
